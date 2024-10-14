@@ -8,7 +8,7 @@
 - Customizable for domain-specific fine-tuning and training.
 
 ## Prerequisites:
-- **Python 3.x**
+- **Python 3**
 - Required Python libraries:
   - `transformers`
   - `torch`
